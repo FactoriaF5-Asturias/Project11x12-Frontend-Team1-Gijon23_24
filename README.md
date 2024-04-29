@@ -117,7 +117,7 @@ Estas herramientas brindaron una estructura organizativa sólida, facilitando la
 
 ### Equipo Backend:
 - Erika Gamarra ([GitHub](https://github.com/erigt) | [LinkedIn](https://www.linkedin.com/in/erikagt/))
-- Eva López ([GitHub](https://github.com/EvaMLopez) | [LinkedIn](https://www.linkedin.com/))
+- Eva López ([GitHub](https://github.com/EvaMLopez) | [LinkedIn](https://www.linkedin.com/in/eva-m-l%C3%B3pez/))
 - Borja Fernández ([GitHub](https://github.com/BarmanDev) | [LinkedIn](https://www.linkedin.com/in/borjafg/))
 - Luis Pardo ([GitHub](https://github.com/luispardosuarez) | [LinkedIn](https://www.linkedin.com/in/luispardosuarez/))
 
